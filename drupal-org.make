@@ -4,7 +4,7 @@ core = 7.x
 ; Contributed modules.
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-alpha2"
+projects[file_entity][version] = "2.0-alpha3"
 projects[file_lock][type] = "module"
 projects[file_lock][subdir] = "contrib"
 projects[file_lock][version] = "2.x-dev"
